@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+    <string name="action_more_information">More information</string>
+    <string name="dialog_title">More information</string>
+    <string name="dialog_message">Hey You, I hope you enjoy my ART. For more information click VIST MOMA.</string>
+    <string name="dialog_button_positive">VIST MOMA</string>
+    <string name="dialog_button_negative">Not Now</string>
+</resources>
